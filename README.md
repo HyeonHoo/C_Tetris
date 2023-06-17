@@ -1,4 +1,4 @@
-# Lauch Image
+# Launch Image
 ![C언어_테트리스게임](https://github.com/HyeonHoo/C_Tetris/assets/69030306/2f668d42-eec5-4252-adb9-9400e3bbb508)
 
 # 목적	
