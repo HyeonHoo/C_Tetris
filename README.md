@@ -1,5 +1,5 @@
 # Lauch Image
-![C언어_테트리스게임](https://github.com/HyeonHoo/C_Tetris/assets/69030306/80565233-febe-452d-a4bf-7edb38bee153)
+![C언어_테트리스게임](https://github.com/HyeonHoo/C_Tetris/assets/69030306/2f668d42-eec5-4252-adb9-9400e3bbb508)
 
 # 목적	
 C언어 수업 복습과 C언어 중 참조 연산자 포인터 심화 학습을 위한 간단한 C언어 게임 프로젝트
